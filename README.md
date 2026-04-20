@@ -8,6 +8,7 @@
 ## 🔗 Quick Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://kowshik-vvip.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com/in/kowshik-prasath-8968792a6)
+[![threads](https://www.threads.com/@kowshik_vvip?igshid=NTc4MTIwNjQ2YQ%3D%3D)
 
 ---
 
